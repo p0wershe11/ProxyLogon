@@ -9,3 +9,5 @@ args:
     --mail: exists user's mail.
     --mails: mails file.
 ```
+
+![](https://github.com/p0wershe11/ProxyLogon/blob/main/gif.gif)
